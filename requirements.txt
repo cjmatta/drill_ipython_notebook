@@ -1,0 +1,24 @@
+Cython==0.21.2
+Django==1.7.3
+Jinja2==2.7.3
+MarkupSafe==0.23
+Pillow==2.7.0
+backports.ssl-match-hostname==3.4.0.2
+certifi==14.05.14
+gnureadline==6.3.3
+image==1.3.4
+ipython==2.3.1
+matplotlib==1.4.2
+mock==1.0.1
+nose==1.3.4
+numpy==1.9.1
+pandas==0.15.2
+-e git+https://github.com/mkleehammer/pyodbc.git@04dee4870ff5e4166d6de4c01099ed5f8c863bfa#egg=pyodbc-master
+pyparsing==2.0.3
+python-dateutil==2.4.0
+pytz==2014.10
+pyzmq==14.4.1
+six==1.9.0
+tornado==4.0.2
+-e git+https://github.com/amueller/word_cloud.git@902f89182192d821c39979991890e8c4238ad788#egg=wordcloud-master
+wsgiref==0.1.2
