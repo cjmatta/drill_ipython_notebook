@@ -1,5 +1,7 @@
 This demo utilizes twitter data stored on MapR and analyzed with Drill.
 
+[View the demo online](http://nbviewer.ipython.org/github/cjmatta/drill_ipython_notebook/blob/master/Twitter%20Drill%20Pandas.ipynb)
+
 I used [TwitterStream](https://github.com/cjmatta/TwitterStream) to download the tweets.
 
 ### Prerequisites
